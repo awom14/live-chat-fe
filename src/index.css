@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.w-50 {
+  width: 50%;
+}
+
+.hvrPointer:hover {
+  font-weight: bolder;
+  text-decoration: underline;
+}
